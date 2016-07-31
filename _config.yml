@@ -1,0 +1,14 @@
+layout_spectrum: 0.41507448558695614
+typography_spectrum: 0.9769781723152846
+color:
+  brandStrength: 0.9641910772770643
+  lightness: 0.5716005321592093
+  saturation: 0.10938930767588317
+  rhythmicContrast: 0.18852043594233692
+  brandColors:
+    - '#C3C9D3'
+    - '#100F14'
+    - '#94A2B5'
+    - '#4C4643'
+    - '#696969'
+name: Propellerhead
