@@ -1,4 +1,3 @@
-layout_spectrum: 0.41507448558695614
 typography_spectrum: 0.9769781723152846
 color:
   brandStrength: 0.9641910772770643
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.41507448558695614
 name: Propellerhead
 title: Software to bring good ideas to life
+description: Bringing ideas to life
